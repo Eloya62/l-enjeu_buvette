@@ -4,7 +4,7 @@ snack bar management app
 developpement and evolution of a python application for festival's bar
 
 previous developpement : 
-- graphic interface with tkinter
+- graphic interface
 - json for datastorage
 - possibility to make menus based on registred objects
 - main menu permit create object and menus
